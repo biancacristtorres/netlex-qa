@@ -54,3 +54,6 @@ Para executar uma determinada tag o comando correto é:
 $ cucumber -t @nomeTag
 ```
 
+## Relatório
+
+Após a execução do teste será gerado um relatório dentro de `features/logs` basta abrir o arquivo **features**. Cada execução de teste faz a substituição deste arquivo.
